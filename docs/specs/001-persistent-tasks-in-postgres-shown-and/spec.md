@@ -1,7 +1,7 @@
 ---
 spec_id: 001-persistent-tasks-in-postgres-shown-and
 title: Persistent tasks in Postgres, shown and created in the web UI
-status: draft
+status: approved
 priority: P1
 shape: gitops-app
 ---
@@ -70,3 +70,4 @@ As a team member, I want to create a task with a title and an optional due date 
 
 - 2026-11-14 created
 - 2026-11-14 amended: open question on access control answered (no login in dev; access control is a separate spec before staging or prod), folded into the non-goals and A10
+- 2026-11-14 approved
